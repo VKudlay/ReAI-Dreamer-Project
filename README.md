@@ -10,7 +10,7 @@ This project has been moved to [Shreyas's repo](https://github.com/ShreyasRaman-
 - A good amount of brainstorming and the paper start-up was done by Anoop ([LinkedIn](https://www.linkedin.com/in/anoop-reddi-b5873ba5)).
 
 ### Content Drive
-As the notebooks and log files are very large, we put them into a [public Google Drive folder](https://drive.google.com/drive/folders/1_mKAnqVkWnYuUojFn89AQw1QLfkP0Kqc?usp=sharing). Feel free to check them out! 
+As the notebooks and log files are very large, we put them into a [public Google Drive folder](https://drive.google.com/drive/folders/1_mKAnqVkWnYuUojFn89AQw1QLfkP0Kqc?usp=sharing). Check them out! 
 
 Included is a pulled-apart version of [DreamerV2](https://github.com/danijar/dreamerv2) which can be modified easily while still being able to run in colab. This was necessary because we had M1 MacBooks and thereby could not use gym locally. Of note, you may need to restart the environment after upgrading PIL for the first time. In one of the notebooks, this has been moved to the top. Feel free to do that subsequently. Following a successful run (or if you want to just look at our log files), feel free to check out the TensorBoard Explorer file :)
 
