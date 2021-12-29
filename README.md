@@ -1,4 +1,4 @@
-# ReAI-Dreamer-Project
+# ReAI Object Dreamer Project
 
 This project has been moved to [Shreyas's repo](https://github.com/ShreyasRaman-01/CS2951X_Final_Project) since he was using his repo to sync up with his GCP experiments. I'm gonna keep this up there just for ease of accesibility. 
 
