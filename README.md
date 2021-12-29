@@ -1,5 +1,7 @@
 # ReAI Object Dreamer Project
 
+This repo is a variation of my group's final project repo for CSCI 2951X: Reintegrating AI. This course is a project-based course with the objective of experimenting with two normally-unintegrated subfields of AI and trying to see if they can work together. This one sought to combine DreamerV2 (a model-based RL formulation that reasons directly on rgb image inputs without a more condensed human-specified state abstraction) and modern object detection models for tasks like foreground/background separation and agent identification (in our case, [WSDDNs](https://arxiv.org/pdf/1511.02853.pdf) and the pre-trained [SPACE model](https://github.com/zhixuan-lin/SPACE)).
+
 This project has been moved to [Shreyas's repo](https://github.com/ShreyasRaman-01/CS2951X_Final_Project) since he was using his repo to sync up with his GCP experiments. I'm gonna keep this up there just for ease of accesibility. 
 
 ### Distribution of labor: 
