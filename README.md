@@ -4,7 +4,7 @@ This project has been moved to [Shreyas's repo](https://github.com/ShreyasRaman-
 
 ### Distribution of labor: 
 - The notebooks for baseline/SPACE integration work was done within Colab (w/ GPUs) by [Vadim](https://github.com/VKudlay) ([LinkedIn](https://www.linkedin.com/in/vadim-kudlay/)). 
-- The WSDDN experiments were done in GCP's GPU-enabled virtual environments by [Shreyas](https://github.com/ShreyasRaman-01) ([LinkedIn](https://www.linkedin.com/in/shreyas-raman-167a2a142)).
+- The WSDDN experiments were done in GCP's GPU-enabled VEs by [Shreyas](https://github.com/ShreyasRaman-01) ([LinkedIn](https://www.linkedin.com/in/shreyas-raman-167a2a142)) in [his repo](https://github.com/ShreyasRaman-01/CS2951X_Final_Project).
 - A good amount of brainstorming and the paper start-up was done by Anoop ([LinkedIn](https://www.linkedin.com/in/anoop-reddi-b5873ba5)).
 
 ### Content Drive
